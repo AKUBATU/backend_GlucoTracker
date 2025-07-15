@@ -307,8 +307,11 @@ def seed_badges():
         print("✅ Badge berhasil ditambahkan.")
 
 if __name__ == '__main__':
+    import os
     os.makedirs('static', exist_ok=True)
+
     with app.app_context():
         db.create_all()
         seed_badges()
-    app.run(debug=True)
+
+    app.run(host='0.0.0.0', port=3000, debug=True)
