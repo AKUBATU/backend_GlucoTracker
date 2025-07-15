@@ -1,0 +1,42 @@
+nama_makanan,jenis,kategori,gula_per_100g
+Teh Manis,Minuman,Manis,7.8
+Kopi Susu,Minuman,Kafein,9.5
+Susu Cokelat,Minuman,Susu,10.2
+Es Krim,Minuman,Dingin,14.1
+Jus Jeruk,Minuman,Segar,8.0
+Minuman Energi,Minuman,Kafein,11.0
+Soft Drink,Minuman,Soda,10.5
+Sirup Marjan,Minuman,Manis,22.0
+Air Putih,Minuman,Netral,0.0
+Yogurt Rasa Stroberi,Minuman,Susu,6.0
+Jus Apel,Minuman,Segar,9.2
+Susu Full Cream,Minuman,Susu,4.8
+Matcha Latte,Minuman,Manis,5.6
+Cappuccino,Minuman,Kafein,3.9
+Thai Tea,Minuman,Manis,12.5
+Nasi Goreng,Makanan,Berat,1.2
+Roti Tawar,Makanan,Sarapan,3.4
+Kue Lapis,Makanan,Manis,12.3
+Sereal Manis,Makanan,Sarapan,13.5
+Donat,Makanan,Manis,17.0
+Martabak Manis,Makanan,Pencuci Mulut,21.0
+Mie Instan,Makanan,Berat,1.8
+Keripik Kentang,Makanan,Camilan,1.5
+Biskuit Coklat,Makanan,Camilan,9.2
+Brownies Coklat,Makanan,Manis,18.0
+Pisang Goreng,Makanan,Camilan,3.3
+Roti Coklat,Makanan,Sarapan,11.0
+Puding Coklat,Makanan,Pencuci Mulut,10.8
+Kue Cubit,Makanan,Manis,8.7
+Bakso,Makanan,Berat,1.1
+Cokelat Batangan,Makanan,Manis,25.0
+Permen Karet,Makanan,Manis,16.0
+Madu,Makanan,Alami,82.1
+Selai Stroberi,Makanan,Sarapan,38.0
+Granola Bar,Makanan,Camilan,15.5
+Energy Bar,Makanan,Camilan,20.3
+Kue Nastar,Makanan,Manis,22.4
+Ice Blend Coklat,Minuman,Dingin,19.3
+Susu Kental Manis,Minuman,Susu,45.0
+Jelly Drink,Minuman,Camilan,14.7
+Cereal Drink,Minuman,Sarapan,11.6
