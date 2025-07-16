@@ -1,8 +1,0 @@
-Flask
-Flask-Cors
-Flask-JWT-Extended
-Flask-SQLAlchemy
-Werkzeug
-scikit-learn
-pandas
-pytz
