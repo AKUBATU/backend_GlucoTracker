@@ -88,7 +88,7 @@ def check_and_award_badges(user_id):
         award_badge(user_id, "Ahli Gula")
 
 # ---------- ML Model ----------
-df = pd.read_csv('food_sugar_data.csv')
+df = pd.read_csv('backend/food_sugar_data.csv')
 df['combined_text'] = df['nama_makanan'] + ' ' + df['jenis'] + ' ' + df['kategori']
 X = df['combined_text']
 y = df['gula_per_100g']
