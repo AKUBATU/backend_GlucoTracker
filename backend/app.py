@@ -23,7 +23,7 @@ app.config['JWT_HEADER_TYPE'] = 'Bearer'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 jwt = JWTManager(app)
-CORS(app, origins=["http://localhost:3000"])
+CORS(app, origins=["https://glucotracker.netlify.app"])
 db = SQLAlchemy(app)
 tz = timezone('Asia/Jakarta')
 
